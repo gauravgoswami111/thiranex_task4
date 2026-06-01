@@ -131,11 +131,6 @@ This project demonstrates:
 * Session Handling
 * Cybersecurity Best Practices
 
-## Author
-
-Nikku Goswami
-
-B.Tech Data Science Student
 
 ## License
 
